@@ -1,0 +1,7 @@
+{
+    "name": "unnamedfeeling/html5blank-mod",
+    "type": "wordpress-theme",
+    "require": {
+        "composer/installers": "^1.0"
+    }
+}
